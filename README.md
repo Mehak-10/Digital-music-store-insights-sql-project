@@ -49,6 +49,7 @@ artist — Music artists
 📊 Features & Business Questions Answered
 
 🔹 Easy Level
+
 Who is the most senior employee?
 
 Which country has the most invoices?
@@ -60,6 +61,7 @@ Which city generates the most revenue?
 Who is the highest-spending customer?
 
 🔸 Moderate Level
+
 List of Rock music listeners sorted by email
 
 Top 10 rock artists by track count
@@ -67,6 +69,7 @@ Top 10 rock artists by track count
 Tracks longer than the average song duration
 
 🔺 Advanced Level
+
 Which customers spent the most on the top-selling artist?
 
 Use of CTEs (Common Table Expressions) to improve readability and structure
@@ -74,6 +77,7 @@ Use of CTEs (Common Table Expressions) to improve readability and structure
 Calculation of total revenue per customer-artist pair
 
 🧠 Learning Outcomes
+
 Writing efficient SQL queries using JOIN, GROUP BY, ORDER BY, and LIMIT
 
 Working with aggregate functions like SUM(), AVG(), and COUNT()
