@@ -3,6 +3,7 @@
 This project presents a structured SQL-based analysis of a digital music store's database. Through a series of business questions ranging from basic to advanced levels, the project aims to provide meaningful insights into sales performance, customer behavior, and music trends using SQL.
 
 📌 Overview
+
 This project simulates a real-world scenario where a digital music platform wants to:
 
 Understand customer purchase behavior
@@ -20,11 +21,13 @@ Queries are organized into three levels:
 🔴 Advanced: CTEs and nested subqueries
 
 🛠️ Technologies Used
+
 SQL (MySQL) — Query writing and data analysis
 
 Relational Database Schema — Simulated using CREATE DATABASE and pre-defined tables
 
 📂 Database Tables Involved
+
 The project uses the following tables:
 
 employee — Employee details with job titles and hierarchy
@@ -44,6 +47,7 @@ album2 — Album details (renamed version of album)
 artist — Music artists
 
 📊 Features & Business Questions Answered
+
 🔹 Easy Level
 Who is the most senior employee?
 
